@@ -1,2 +1,2 @@
-# quoridor
-Web based version of Quoridor
+# Quoridor
+A web based version of the Quoridor game
